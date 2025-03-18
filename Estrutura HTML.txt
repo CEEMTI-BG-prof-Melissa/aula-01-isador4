@@ -1,0 +1,86 @@
+--->
+<html>
+	<head>
+		<title>Estrutura de HTML</title>
+	<style>
+		.div1{
+		background color: blue;
+		height: 40px;
+		width: 50px;
+		}
+		.div2{
+		background color: rgb 34, 34, 66;
+		}
+	</style>
+	</head>
+	<body>
+		<h1><i>Olá mundo!!</i></h1>
+		<h4><s>Estrutura de HTML</s></h4>
+		<div class= div1></div>
+		<div class = div2>
+			<ol>
+				<li> O que eu lembro é isso ai <3</li>
+			</ol>
+		</div>
+		
+	</body>
+</html>
+<---
+     
+1.
+<html>
+	<head>
+		<title></title>
+	</head>
+	<body>
+	</body>
+</html>
+
+2.
+<html>
+	<head>
+		<title></>
+	</head>	
+	<body>
+	</body>
+</html>
+
+3.
+<html>
+	<head>
+		<title></title>
+	</head>
+	<body>
+	</body>
+</html>
+
+4.
+<body>
+	<head>
+		<title></title>
+	</head>
+	<body>
+	</body>
+</body>
+
+5.
+<html>
+	<head>
+		<title></title>
+	</head>
+	<body>
+	</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
