@@ -24,13 +24,14 @@ div{
     background-size: cover;
 }
 #bloco5{
-    background-color: darkcyan;
+    background-image: url("/images\ \(3\).jpg");
     background-attachment: fixed;
     background-size: cover;
 }
 #bloco6{
     background-image: url("/images\ \(3\).jpg");
     background-origin: padding-box;
+    background-repeat: no-repeat;
 }
 #bloco7{
     background-image: url(/images\ \(3\).jpg);
@@ -56,6 +57,6 @@ div{
     background-clip: content-box;
 }
 #bloco12{
-    background: rgb(118, 166, 255);
+    background: rgb(118, 166, 255) padding-box;
     
 }
